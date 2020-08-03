@@ -1,6 +1,7 @@
 {
 	"name": "mydesikitchen",
   "require": {
-    "ext-mbstring": "*"
+    "ext-mbstring": "*",
+		"ext-gd": "^7.4"
   }
 }
